@@ -98,6 +98,7 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 [![SkillMatch Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
 [![Agent RL Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
+[![DeepRacer Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl)
 
 </div>
 
@@ -105,6 +106,7 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 |---------|-------------|------------|
 | [SkillMatch](https://github.com/yikedabaicaimuuuu/skillmatch-) | Full-stack skill matching platform with ML recommendations (TF-IDF), real-time WebSocket messaging, and 85%+ test coverage | React, Express, Redis, Docker |
 | [Agentic RAG](https://github.com/yikedabaicaimuuuu/agent_rl) | Production-ready RAG system with LangGraph orchestration, 430x latency improvement via Redis caching, and Prometheus/Grafana monitoring | FastAPI, Flask, Next.js, Redis, Docker |
+| [Autonomous Racing RL](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl) | Containerized RL training & evaluation pipeline for AWS DeepRacer simulation, with large-scale HPC training runs | PyTorch, Docker, HPC, RL |
 
 ---
 
