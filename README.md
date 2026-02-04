@@ -97,15 +97,10 @@ me.say_hi()
 
 </div>
 
-### SkillMatch - AI-Powered Skill Matching Platform
-Full-stack skill matching platform with ML-based recommendations using TF-IDF and cosine similarity. Features real-time messaging with WebSocket & Redis, secure RESTful APIs with Express.js (session auth, OTP, RBAC), and responsive React frontend with Redux Toolkit. CI/CD with GitHub Actions & Docker, 85%+ test coverage.
-
-**Tech:** `React` `Redux` `Express.js` `WebSocket` `Redis` `TF-IDF` `Jest` `Vitest` `Docker` `GitHub Actions`
-
-### Agentic RAG System - Production-Ready Question-Answering
-Production-ready Agentic RAG system with multi-step reasoning via LangGraph orchestration for HotpotQA dataset. Microservices architecture (FastAPI + Flask + Next.js/React), Redis caching (430x latency improvement), real-time SSE streaming, Prometheus/Grafana monitoring, and fully containerized with Docker Compose.
-
-**Tech:** `FastAPI` `Flask` `Next.js` `React` `LangGraph` `Redis` `MongoDB` `SSE` `Prometheus` `Grafana` `Docker`
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [SkillMatch](https://github.com/yikedabaicaimuuuu/skillmatch-) | Full-stack skill matching platform with ML recommendations (TF-IDF), real-time WebSocket messaging, and 85%+ test coverage | React, Express, Redis, Docker |
+| [Agentic RAG](https://github.com/yikedabaicaimuuuu/agent_rl) | Production-ready RAG system with LangGraph orchestration, 430x latency improvement via Redis caching, and Prometheus/Grafana monitoring | FastAPI, Flask, Next.js, Redis, Docker |
 
 ---
 
