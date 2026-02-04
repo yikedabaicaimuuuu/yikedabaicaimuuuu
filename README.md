@@ -46,6 +46,10 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-3F51B5?style=for-the-badge&logo=numpy&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-00BCD4?style=for-the-badge&logo=scipy&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-FF5722?style=for-the-badge&logo=weights%26biases&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,7 +60,18 @@ me.say_hi()
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![Batch Processing](https://img.shields.io/badge/Batch_Processing-4A154B?style=for-the-badge&logo=apache&logoColor=white)
+![Streaming](https://img.shields.io/badge/Streaming-FF4500?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Systems & QA
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debugging](https://img.shields.io/badge/Debugging-4CAF50?style=for-the-badge&logo=bugsnag&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging_&_Monitoring-000000?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Cloud & DevOps
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -66,7 +81,8 @@ me.say_hi()
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
 
@@ -77,15 +93,19 @@ me.say_hi()
 <div align="center">
 
 [![SkillMatch Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
-[![Daily arXiv Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=daily-arXiv-ai-enhanced&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/daily-arXiv-ai-enhanced)
+[![Agent RL Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
 
 </div>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [SkillMatch](https://github.com/yikedabaicaimuuuu/skillmatch-) | AI-powered skill sharing and project matching platform | JavaScript, AI |
-| [Daily arXiv AI](https://github.com/yikedabaicaimuuuu/daily-arXiv-ai-enhanced) | Auto-crawl arXiv papers & summarize with AI | JavaScript, AI |
-| [React Agentic RAG](https://github.com/yikedabaicaimuuuu/react-agentic-rag-app) | Agentic RAG app using LlamaIndex & OpenAI | React, LlamaIndex |
+### SkillMatch - AI-Powered Skill Matching Platform
+Full-stack skill matching platform with ML-based recommendations using TF-IDF and cosine similarity. Features real-time messaging with WebSocket & Redis, secure RESTful APIs with Express.js (session auth, OTP, RBAC), and responsive React frontend with Redux Toolkit. CI/CD with GitHub Actions & Docker, 85%+ test coverage.
+
+**Tech:** `React` `Redux` `Express.js` `WebSocket` `Redis` `TF-IDF` `Jest` `Vitest` `Docker` `GitHub Actions`
+
+### Agentic RAG System - Production-Ready Question-Answering
+Production-ready Agentic RAG system with multi-step reasoning via LangGraph orchestration for HotpotQA dataset. Microservices architecture (FastAPI + Flask + Next.js/React), Redis caching (430x latency improvement), real-time SSE streaming, Prometheus/Grafana monitoring, and fully containerized with Docker Compose.
+
+**Tech:** `FastAPI` `Flask` `Next.js` `React` `LangGraph` `Redis` `MongoDB` `SSE` `Prometheus` `Grafana` `Docker`
 
 ---
 
