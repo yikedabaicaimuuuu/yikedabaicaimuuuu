@@ -16,8 +16,8 @@
 ```python
 class ZhonghuiLi:
     def __init__(self):
+        self.education = "M.S. in Computer Science & Engineering @ UC Santa Cruz"
         self.role = ["Software Engineer", "Full Stack Developer", "AI/ML Engineer", "Data Scientist"]
-        self.looking_for = ["SDE", "AI/ML", "Data Scientist", "Data Analyst", "Data Engineer", "Full Stack", "Backend"]
         self.languages = ["Python", "SQL", "Java", "JavaScript", "TypeScript", "C/C++"]
         self.fun_fact = "I turn coffee into code and data into insights"
 
@@ -27,6 +27,10 @@ class ZhonghuiLi:
 me = ZhonghuiLi()
 me.say_hi()
 ```
+
+Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cruz**. Experience building full-stack applications and applied LLM systems, including ML-driven pipelines and production-ready services. **Actively seeking full-time opportunities.**
+
+**Open to:** `Software Engineer` `AI/ML Engineer` `Data Scientist` `Data Analyst` `Data Engineer` `Full Stack` `Backend`
 
 ---
 
@@ -114,18 +118,6 @@ me.say_hi()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yikedabaicaimuuuu&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## Currently Open To
-
-- Software Engineer (SDE) roles
-- AI/ML Engineer positions
-- Data Scientist opportunities
-- Data Analyst roles
-- Data Engineer positions
-- Full Stack Developer jobs
-- Backend Developer positions
 
 ---
 
