@@ -96,10 +96,10 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-[![SkillMatch Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
-[![Agent RL Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
-[![DeepRacer Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl)
-[![Fine-Grained SSL Card](https://github-readme-stats.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/fine-grained-ssl)
+[![SkillMatch Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=skillmatch-&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/skillmatch-)
+[![Agent RL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=agent_rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/agent_rl)
+[![DeepRacer Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=autonomous-racing-rl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/autonomous-racing-rl)
+[![Fine-Grained SSL Card](https://github-readme-stats-topaz-psi-34.vercel.app/api/pin/?username=yikedabaicaimuuuu&repo=fine-grained-ssl&theme=tokyonight)](https://github.com/yikedabaicaimuuuu/fine-grained-ssl)
 
 </div>
 
@@ -116,8 +116,8 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yikedabaicaimuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikedabaicaimuuuu&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=yikedabaicaimuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api/top-langs/?username=yikedabaicaimuuuu&layout=compact&theme=tokyonight&langs_count=8"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yikedabaicaimuuuu&theme=tokyonight)](https://git.io/streak-stats)
 
