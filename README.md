@@ -116,10 +116,8 @@ Recent **M.S. graduate in Computer Science and Engineering** from **UC Santa Cru
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=yikedabaicaimuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api?username=yikedabaicaimuuuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
 <img height="180em" src="https://github-readme-stats-topaz-psi-34.vercel.app/api/top-langs/?username=yikedabaicaimuuuu&layout=compact&theme=tokyonight&langs_count=8"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yikedabaicaimuuuu&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
